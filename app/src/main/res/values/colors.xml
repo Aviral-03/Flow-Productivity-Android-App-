@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#18a3fe</color>
+    <color name="colorPrimaryDark">#6c6c6c</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <!-- colors for button style -->
+
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+
+    <!-- colors for tab and screent text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+    <!-- colors for menu -->
+    <color name="colorPrimary2">#795548</color>
+    <color name="colorPrimaryDark2">#5D4037</color>
+    <color name="white">#ffff</color>
+    <color name="colorAccent2">#FF4081</color>
+    <color name="darkgray2">#6c6c6c</color>
+
+    <!-- colors for timer -->
+    <color name="colorPrimary3">#1E2538</color>
+    <color name="colorPrimaryDark3">#0E121B</color>
+    <color name="colorAccent3">#F5FA55</color>
+    <color name="colorBackground3">#151B29</color>
+    <color name="colorYellow3">#F5FA55</color>
+
+</resources>
